@@ -10,7 +10,7 @@ Here are resources we have either found in our internet travels or written ourse
 
 * TechNole
     - Hackathons
-        + [TechNole Hackathon Trip Tips[technole/hackathons/hackathon-trip-tips.md]
+        + [TechNole Hackathon Trip Tips](technole/hackathons/hackathon-trip-tips.md)
         + Organizing Trips
         + HackFSU
         + LyteHacks
